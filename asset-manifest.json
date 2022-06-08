@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/repa/static/css/main.292ac17d.css",
+    "main.js": "/repa/static/js/main.31389910.js",
+    "static/media/kk.svg": "/repa/static/media/kk.af6c768dc0f86859f4a46f2646db916f.svg",
+    "static/media/Alis.jpg": "/repa/static/media/Alis.46e1e806d8b2d17d4286.jpg",
+    "static/media/Ola.jpg": "/repa/static/media/Ola.70f55e1264b98fd8e40f.jpg",
+    "static/media/Yana.jpg": "/repa/static/media/Yana.5b8af56a038c7ce8ee1a.jpg",
+    "static/media/31.svg": "/repa/static/media/31.54077614466bd0f8b72c32a9f9e8e4cb.svg",
+    "static/media/fase.png": "/repa/static/media/fase.9b463818158a5a197a9f.png",
+    "static/media/ma.svg": "/repa/static/media/ma.17911c00d9b26f6192a6d9171d61212b.svg",
+    "static/media/about.jpg": "/repa/static/media/about.b86580bc22bd1c526d8b.jpg",
+    "static/media/Vetor.svg": "/repa/static/media/Vetor.e57407cc94b3520e265b5a73127a710b.svg",
+    "static/media/ret.svg": "/repa/static/media/ret.22824177fd317671fd8bdf7a1f20b877.svg",
+    "static/media/liv.svg": "/repa/static/media/liv.2266173c8189facbfdb968f3467208d0.svg",
+    "static/media/logo.svg": "/repa/static/media/logo.e9ef5fa76daa4928668620dcbbb6eb88.svg",
+    "static/media/services.svg": "/repa/static/media/services.0d43785bd1f41e4d0371.svg",
+    "static/media/portfolio.svg": "/repa/static/media/portfolio.bff8b39169bade93c32b.svg",
+    "static/media/testimonials.svg": "/repa/static/media/testimonials.7b59b974ba9e396f2d8e.svg",
+    "static/media/contact.svg": "/repa/static/media/contact.acdd342ba1db0f98c7cd.svg",
+    "static/media/about.svg": "/repa/static/media/about.192e39ff229e6eb06083.svg",
+    "index.html": "/repa/index.html",
+    "main.292ac17d.css.map": "/repa/static/css/main.292ac17d.css.map",
+    "main.31389910.js.map": "/repa/static/js/main.31389910.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.292ac17d.css",
+    "static/js/main.31389910.js"
+  ]
+}
