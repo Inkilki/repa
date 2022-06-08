@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/repa/static/css/main.292ac17d.css",
-    "main.js": "/repa/static/js/main.31389910.js",
+    "main.css": "/repa/static/css/main.78c38974.css",
+    "main.js": "/repa/static/js/main.6cb3b159.js",
     "static/media/kk.svg": "/repa/static/media/kk.af6c768dc0f86859f4a46f2646db916f.svg",
     "static/media/Alis.jpg": "/repa/static/media/Alis.46e1e806d8b2d17d4286.jpg",
     "static/media/Ola.jpg": "/repa/static/media/Ola.70f55e1264b98fd8e40f.jpg",
@@ -20,11 +20,11 @@
     "static/media/contact.svg": "/repa/static/media/contact.acdd342ba1db0f98c7cd.svg",
     "static/media/about.svg": "/repa/static/media/about.192e39ff229e6eb06083.svg",
     "index.html": "/repa/index.html",
-    "main.292ac17d.css.map": "/repa/static/css/main.292ac17d.css.map",
-    "main.31389910.js.map": "/repa/static/js/main.31389910.js.map"
+    "main.78c38974.css.map": "/repa/static/css/main.78c38974.css.map",
+    "main.6cb3b159.js.map": "/repa/static/js/main.6cb3b159.js.map"
   },
   "entrypoints": [
-    "static/css/main.292ac17d.css",
-    "static/js/main.31389910.js"
+    "static/css/main.78c38974.css",
+    "static/js/main.6cb3b159.js"
   ]
 }
